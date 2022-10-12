@@ -1,0 +1,7 @@
+01:14:55.175 [main] INFO  Academy.ValidateTitle - Navigate to the Home page
+01:14:55.485 [main] INFO  Academy.ValidateNavigationBar - Navigation bar is displayed
+02:47:37.893 [main] INFO  Academy.ValidateNavigationBar - Driver initialized
+02:48:12.709 [main] INFO  Academy.ValidateTitle - Driver is initialized
+02:48:46.411 [main] INFO  Academy.ValidateTitle - Navigate to the Home page
+02:48:46.536 [main] INFO  Academy.ValidateNavigationBar - Navigation bar is displayed
+02:53:50.440 [main] INFO  Academy.ValidateNavigationBar - Driver initialized
